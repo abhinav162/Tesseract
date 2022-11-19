@@ -1,0 +1,36 @@
+{
+  "name": "tesseract",
+  "version": "1.0.0",
+  "description": "A Decentralized Music app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav162/Tesseract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav162/Tesseract/issues"
+  },
+  "homepage": "https://github.com/abhinav162/Tesseract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@types/bootstrap": "^5.2.6",
+    "@types/react-bootstrap": "^0.32.32",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "identicon.js": "^2.3.3",
+    "react-router-dom": "^6.4.3"
+  }
+}
